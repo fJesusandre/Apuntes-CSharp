@@ -1,0 +1,15 @@
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\bin\Debug\net6.0\PrimerContactoConCSharp.exe
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\bin\Debug\net6.0\PrimerContactoConCSharp.deps.json
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\bin\Debug\net6.0\PrimerContactoConCSharp.runtimeconfig.json
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\bin\Debug\net6.0\PrimerContactoConCSharp.dll
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\bin\Debug\net6.0\PrimerContactoConCSharp.pdb
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\obj\Debug\net6.0\PrimerContactoConCSharp.csproj.AssemblyReference.cache
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\obj\Debug\net6.0\PrimerContactoConCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\obj\Debug\net6.0\PrimerContactoConCSharp.AssemblyInfoInputs.cache
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\obj\Debug\net6.0\PrimerContactoConCSharp.AssemblyInfo.cs
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\obj\Debug\net6.0\PrimerContactoConCSharp.csproj.CoreCompileInputs.cache
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\obj\Debug\net6.0\PrimerContactoConCSharp.dll
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\obj\Debug\net6.0\refint\PrimerContactoConCSharp.dll
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\obj\Debug\net6.0\PrimerContactoConCSharp.pdb
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\obj\Debug\net6.0\PrimerContactoConCSharp.genruntimeconfig.cache
+C:\Users\fjesu\source\repos\PrimerContactoConCSharp\PrimerContactoConCSharp\obj\Debug\net6.0\ref\PrimerContactoConCSharp.dll
