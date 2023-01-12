@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Metodos",
+    "\\SintaxisBasica"
   ],
-  "SelectedNode": "\\SintaxisBasica",
+  "SelectedNode": "\\Metodos\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
