@@ -48,7 +48,10 @@ namespace Metodos
 
         static int Suma(int numero1, double numero2) => numero1;
 
-        static int Suma(int numero1, int numero2, int numero3) => numero1 + numero2;
+        //Parametros opcionales. Esto es fuera del tema de sobrecarga.
+        static int Suma(int numero1, int numero2, int numero3 = 0) => numero1 + numero2 + numero3; // numero3 es un parametro opcional, le estoy asignando un valor por defecto.
+        // Si al momento de llamar a este metodo no se le da el valor al tercer parametro, no pasara nada ya que tiene como valor predeterminado el cero.
+        //Los parametros opcionales deben ir siempre al final.
 
         // El metodo que se ejecute dependera de los parametros que se den al programa. 
     }
