@@ -32,7 +32,7 @@ namespace Metodos
             return num1 + num2;
         }
 
-        //Expression-bodied =>
+        // => (Expression-bodied) 
         static int divideNumeros(int num1, int num2) => num1 / num2; // Manera de escribir o SIMPLIFICAR metodos con una linea de codigo como los anteriores.
         
         void primerMetodo()
@@ -42,5 +42,14 @@ namespace Metodos
         }
         
         // Sobrecarga de metodos: Cuando dos o mas metodos tienen el mismo nombre dentro de una clase.
+
+        // Para realizar una sobrecarga de metodos es necesario que uno de ellos tenga diferente tipo o cantidad de parametros.
+        static int Suma(int operador1, int operador2) => operador1 + operador2;
+
+        static int Suma(int numero1, double numero2) => numero1;
+
+        static int Suma(int numero1, int numero2, int numero3) => numero1 + numero2;
+
+        // El metodo que se ejecute dependera de los parametros que se den al programa. 
     }
 }
