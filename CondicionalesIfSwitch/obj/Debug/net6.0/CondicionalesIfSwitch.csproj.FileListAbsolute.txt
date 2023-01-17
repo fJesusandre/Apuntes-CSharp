@@ -1,0 +1,15 @@
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\bin\Debug\net6.0\CondicionalesIfSwitch.exe
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\bin\Debug\net6.0\CondicionalesIfSwitch.deps.json
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\bin\Debug\net6.0\CondicionalesIfSwitch.runtimeconfig.json
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\bin\Debug\net6.0\CondicionalesIfSwitch.dll
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\bin\Debug\net6.0\CondicionalesIfSwitch.pdb
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\obj\Debug\net6.0\CondicionalesIfSwitch.csproj.AssemblyReference.cache
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\obj\Debug\net6.0\CondicionalesIfSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\obj\Debug\net6.0\CondicionalesIfSwitch.AssemblyInfoInputs.cache
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\obj\Debug\net6.0\CondicionalesIfSwitch.AssemblyInfo.cs
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\obj\Debug\net6.0\CondicionalesIfSwitch.csproj.CoreCompileInputs.cache
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\obj\Debug\net6.0\CondicionalesIfSwitch.dll
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\obj\Debug\net6.0\refint\CondicionalesIfSwitch.dll
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\obj\Debug\net6.0\CondicionalesIfSwitch.pdb
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\obj\Debug\net6.0\CondicionalesIfSwitch.genruntimeconfig.cache
+C:\Users\fjesu\source\repos\CursoCSharp\CondicionalesIfSwitch\obj\Debug\net6.0\ref\CondicionalesIfSwitch.dll
