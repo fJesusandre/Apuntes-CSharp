@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CondicionalesIfSwitch",
+    "\\Metodos",
+    "\\SintaxisBasica"
   ],
+  "SelectedNode": "\\CondicionalesIfSwitch\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
