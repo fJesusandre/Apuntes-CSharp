@@ -36,10 +36,36 @@
             do{
                 intentos++;
 
-                miNumero = int.Parse(Console.ReadLine());
+                try
+                {
+                    miNumero = int.Parse(Console.ReadLine());
+                } 
+                catch(FormatException ex) 
+                {
+                    Console.WriteLine("No has introducido un valor numerico valido.\nIntentalo de nuevo: ");
+                    miNumero= 101;
+                    intentos--;
+                }
+                catch (OverflowException ex)
+                {
+                    Console.WriteLine("El numero que introduciste es muy grande. Introduce un numero entre el rango permitido (0 - 100).");
+                    miNumero = 101;
+                    intentos--;
+                }
+                // Para poder capturar todas las excepciones pero ademas queremos capturar una en especifico y darle un trato especial, primero se
+                // se debe de poner el catch con la excepcion en especifico y despues el catch con la clase Excepcion para capturar todas las demas en general.
+                // De manera inversa el codigo generara error.
+                // Primeros especificos, al final los genericos.
+                /* 
+                 catch (Exception ex o e) 
+                {
+                    codigo
+                }
+                 */
 
-                if (miNumero > numeroAleatorio) Console.WriteLine("El No. es mas bajo");
-                if (miNumero < numeroAleatorio) Console.WriteLine("El No. es mas alto");
+                if (miNumero > numeroAleatorio && miNumero != 101) Console.WriteLine("El No. es mas bajo");
+                else if (miNumero < numeroAleatorio) Console.WriteLine("El No. es mas alto");
+
             } while (numeroAleatorio != miNumero);
 
             Console.WriteLine($"Correcto! Has acertado al intento No. {intentos}");

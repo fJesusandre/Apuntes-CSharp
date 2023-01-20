@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CondicionalesIfSwitch",
-    "\\Metodos",
-    "\\SintaxisBasica"
+    "\\BucleWhileDoWhle",
+    "\\CondicionalesIfSwitch"
   ],
-  "SelectedNode": "\\CondicionalesIfSwitch\\Program.cs",
+  "SelectedNode": "\\BucleWhileDoWhle\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
