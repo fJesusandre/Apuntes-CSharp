@@ -1,0 +1,15 @@
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\bin\Debug\net6.0\UsoDeChecked.exe
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\bin\Debug\net6.0\UsoDeChecked.deps.json
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\bin\Debug\net6.0\UsoDeChecked.runtimeconfig.json
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\bin\Debug\net6.0\UsoDeChecked.dll
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\bin\Debug\net6.0\UsoDeChecked.pdb
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\obj\Debug\net6.0\UsoDeChecked.csproj.AssemblyReference.cache
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\obj\Debug\net6.0\UsoDeChecked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\obj\Debug\net6.0\UsoDeChecked.AssemblyInfoInputs.cache
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\obj\Debug\net6.0\UsoDeChecked.AssemblyInfo.cs
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\obj\Debug\net6.0\UsoDeChecked.csproj.CoreCompileInputs.cache
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\obj\Debug\net6.0\UsoDeChecked.dll
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\obj\Debug\net6.0\refint\UsoDeChecked.dll
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\obj\Debug\net6.0\UsoDeChecked.pdb
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\obj\Debug\net6.0\UsoDeChecked.genruntimeconfig.cache
+C:\Users\fjesu\source\repos\CursoCSharp\UsoDeChecked\obj\Debug\net6.0\ref\UsoDeChecked.dll

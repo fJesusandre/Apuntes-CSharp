@@ -65,8 +65,9 @@
                  */
 
                 // Otra forma de lo anterior pero mas nuevo, pro y elegante.
+                //Captura de  excepciones con filtro.
 
-                catch (Exception e) when (e.GetType() != typeof(FormatException)) 
+                catch (Exception e) when (e.GetType() != typeof(FormatException)) // cuando la exccepcion que capturaste sea diferente de esta excepcion en especifico, realiza esto.
                 {
                     Console.WriteLine("Ha ocurrido un error. Intenta de nuevo:");
                     miNumero = 101;
