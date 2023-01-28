@@ -41,6 +41,8 @@
              Visual Studio permite configurarlo para no tener que estar programando un checked a cada rato.
             Ver a partir del minuto 17:33 del video 24 del curso.
             Configuracion, compilacion, avanzadas y activar opcion de comprobar desbordamiento y subdesbordamiento aritmetico.
+            
+            forma abreviada checked() y unchecked(). 
              */
 
 

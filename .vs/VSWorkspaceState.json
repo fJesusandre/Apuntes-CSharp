@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\BucleWhileDoWhle",
-    "\\CondicionalesIfSwitch"
+    "\\CondicionalesIfSwitch",
+    "\\UsoDeChecked"
   ],
-  "SelectedNode": "\\BucleWhileDoWhle\\Program.cs",
+  "SelectedNode": "\\UsoDeChecked\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
