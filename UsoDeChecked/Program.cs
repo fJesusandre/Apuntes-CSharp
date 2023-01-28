@@ -27,26 +27,67 @@
             sobrepasar la capacidad de enteros positivos, comienza en memoria la parte donde se almacenan los negativos, 
             por ende, sale ese resultado. Es importante entender debajo de todo el framework, que esta pasando en memoria al 
             declarar valores numéricos, pues cada uno tiene una capacidad diferente, y por tanto una organización distinta en memoria.
-             */
+             
             checked
             {
                 int numero = int.MaxValue;
                 int resultado = numero + 20;
 
                 Console.WriteLine(resultado);
-                
-            }
-
+            }*/
             /*
-             Visual Studio permite configurarlo para no tener que estar programando un checked a cada rato.
-            Ver a partir del minuto 17:33 del video 24 del curso.
-            Configuracion, compilacion, avanzadas y activar opcion de comprobar desbordamiento y subdesbordamiento aritmetico.
+                         Visual Studio permite configurarlo para no tener que estar programando un checked a cada rato.
+                        Ver a partir del minuto 17:33 del video 24 del curso.
+                        Configuracion, compilacion, avanzadas y activar opcion de comprobar desbordamiento y subdesbordamiento aritmetico.
+
+                        forma abreviada checked(numero + 20) y unchecked(numero + 20). Esto solo funciona con Int y Long.
+                         */
+            int numeroMes = int.Parse(Console.ReadLine());
+
+            try
+            {
+                Console.WriteLine(NombreDelMes(numeroMes);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Mensaje de la excepcion: {ex.Message}");
+            }
             
-            forma abreviada checked() y unchecked(). 
-             */
-
-
             Console.ReadKey();
+        }
+
+        public static string NombreDelMes(int mes)
+        {
+            switch (mes)
+            {
+                case 1:
+                    return "Enero";
+                case 2:
+                    return "Febrero";
+                case 3:
+                    return "Marzo";
+                case 4:
+                    return "Abril";
+                case 5:
+                    return "Mayo";
+                case 6:
+                    return "Junio";
+                case 7:
+                    return "Julio";
+                case 8:
+                    return "Agosto";
+                case 9:
+                    return "Septiembre";
+                case 10:
+                    return "Octubre";
+                case 11:
+                    return "Noviembre";
+                case 12:
+                    return "Diciembre";
+
+                default:
+                    throw new ArgumentOutOfRangeException();
+            }
         }
     }
 }
