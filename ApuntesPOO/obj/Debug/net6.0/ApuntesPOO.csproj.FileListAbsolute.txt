@@ -1,0 +1,15 @@
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/bin/Debug/net6.0/ApuntesPOO
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/bin/Debug/net6.0/ApuntesPOO.deps.json
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/bin/Debug/net6.0/ApuntesPOO.runtimeconfig.json
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/bin/Debug/net6.0/ApuntesPOO.dll
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/bin/Debug/net6.0/ref/ApuntesPOO.dll
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/bin/Debug/net6.0/ApuntesPOO.pdb
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/obj/Debug/net6.0/ApuntesPOO.csproj.AssemblyReference.cache
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/obj/Debug/net6.0/ApuntesPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/obj/Debug/net6.0/ApuntesPOO.AssemblyInfoInputs.cache
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/obj/Debug/net6.0/ApuntesPOO.AssemblyInfo.cs
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/obj/Debug/net6.0/ApuntesPOO.csproj.CoreCompileInputs.cache
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/obj/Debug/net6.0/ApuntesPOO.dll
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/obj/Debug/net6.0/ref/ApuntesPOO.dll
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/obj/Debug/net6.0/ApuntesPOO.pdb
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOO/obj/Debug/net6.0/ApuntesPOO.genruntimeconfig.cache
