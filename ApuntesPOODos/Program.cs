@@ -18,7 +18,14 @@ namespace ApuntesPOODos{
         }
     }
 
-    class Coche{
+    /* 1ra Division de la clase Coche*/
+    partial class Coche{
+
+        private int ruedas;
+        private double largo;
+        private double ancho;
+        private bool clima;
+        private string tapiceria;
 
         // Constructor. Lleva el mismo nombre de la clase y no lleva void ni regresa ningun valor.
         public Coche(){
@@ -35,7 +42,10 @@ namespace ApuntesPOODos{
             this.largo = largo;
             this.ancho = ancho;
         }
+    }
 
+    /* 2da Division de la clase Coche*/
+    partial class Coche {
         // Metodo de acceso. Getter.
         public string getInfoCoche(){
             return $"Informacion del coche:\n\nCantidad de ruedas: {ruedas}\nDimensiones del coche: {largo}x{ancho}";
@@ -55,10 +65,5 @@ namespace ApuntesPOODos{
             return $"Caracteristicas extras:\n\nClima: {clima}\nTapiceria: {tapiceria}";
         }
 
-        private int ruedas;
-        private double largo;
-        private double ancho;
-        private bool clima;
-        private string tapiceria;
     }
 }
