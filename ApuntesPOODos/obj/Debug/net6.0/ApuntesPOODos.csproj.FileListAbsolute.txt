@@ -1,0 +1,15 @@
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/bin/Debug/net6.0/ApuntesPOODos
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/bin/Debug/net6.0/ApuntesPOODos.deps.json
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/bin/Debug/net6.0/ApuntesPOODos.runtimeconfig.json
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/bin/Debug/net6.0/ApuntesPOODos.dll
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/bin/Debug/net6.0/ref/ApuntesPOODos.dll
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/bin/Debug/net6.0/ApuntesPOODos.pdb
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/obj/Debug/net6.0/ApuntesPOODos.csproj.AssemblyReference.cache
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/obj/Debug/net6.0/ApuntesPOODos.GeneratedMSBuildEditorConfig.editorconfig
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/obj/Debug/net6.0/ApuntesPOODos.AssemblyInfoInputs.cache
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/obj/Debug/net6.0/ApuntesPOODos.AssemblyInfo.cs
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/obj/Debug/net6.0/ApuntesPOODos.csproj.CoreCompileInputs.cache
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/obj/Debug/net6.0/ApuntesPOODos.dll
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/obj/Debug/net6.0/ref/ApuntesPOODos.dll
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/obj/Debug/net6.0/ApuntesPOODos.pdb
+/home/fjesus-andre/Documents/CSharp/Apuntes-CSharp/ApuntesPOODos/obj/Debug/net6.0/ApuntesPOODos.genruntimeconfig.cache
