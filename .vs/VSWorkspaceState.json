@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EnumeracionesDemo",
+    "\\EnumeracionesDemo\\EnumeracionesDemo"
   ],
+  "SelectedNode": "\\EnumeracionesDemo\\EnumeracionesDemo\\Rol.cs",
   "PreviewInSolutionExplorer": false
 }
