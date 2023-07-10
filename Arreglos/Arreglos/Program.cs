@@ -21,8 +21,18 @@ namespace Arreglos
                 Console.WriteLine($"El radio de este circulo es: {circulo.radio}");
             }
 
-            var circulos2 = Inicializar();
-            Console.WriteLine(circulos2[2]);
+           /* var circulos2 = Inicializar();
+            Console.WriteLine(circulos2[2]);*/
+
+            //int[] numeros2 = new int[numeros.Length];
+            //Array.Copy(numeros, numeros2, numeros.Length);
+            
+            int[] numeros2 = (int[]) numeros.Clone();
+
+            int[,] bidimensional = new int[5, 5];
+            bidimensional[0,0] = 1;
+            bidimensional[3, 3] = 12;
+            
         }
 
         static void GenerarReporte(Circulo[] circulos)
