@@ -5,8 +5,12 @@ namespace ApuntesPOODos{
     class Program{
         static void Main(string[] args){
 
-            CrearCoche();
-            CrearMoto();
+            //CrearCoche();
+            //CrearMoto();
+            Banco banco1 = new Banco();
+            banco1.Operar();
+            banco1.DepositosTotales();
+            Console.ReadKey();
         }
 
         static void CrearCoche(){
