@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Arreglos
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Arreglos\Arreglos\
+=======
+build_property.ProjectDir = C:\Users\FERNANJE\Source\Repos\Apuntes-CSharp\Arreglos\Arreglos\
+>>>>>>> c8c42d2d3079d5d788706b2f75fb6f9734cbca31
