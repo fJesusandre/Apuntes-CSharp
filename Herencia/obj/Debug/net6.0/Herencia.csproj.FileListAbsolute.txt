@@ -1,0 +1,14 @@
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\bin\Debug\net6.0\Herencia.exe
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\bin\Debug\net6.0\Herencia.deps.json
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\bin\Debug\net6.0\Herencia.runtimeconfig.json
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\bin\Debug\net6.0\Herencia.dll
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\bin\Debug\net6.0\Herencia.pdb
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\obj\Debug\net6.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfo.cs
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\obj\Debug\net6.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\obj\Debug\net6.0\Herencia.dll
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\obj\Debug\net6.0\refint\Herencia.dll
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\obj\Debug\net6.0\Herencia.pdb
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\obj\Debug\net6.0\Herencia.genruntimeconfig.cache
+C:\Users\FERNANJE\Source\Repos\fJesusandre\Apuntes-CSharp\Herencia\obj\Debug\net6.0\ref\Herencia.dll

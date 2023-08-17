@@ -9,7 +9,7 @@
 
             if (opcion == 1) condicionalIf();
             else if (opcion == 2) condicionalSwitch();
-            else Console.WriteLine("Selecciona una opcion correcta, estupido.");
+            else Console.WriteLine("Selecciona una opcion correcta.");
 
             Console.ReadKey();
         }

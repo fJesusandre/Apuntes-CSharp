@@ -75,7 +75,7 @@
                 }
                 catch(FormatException e) 
                 {
-                    Console.WriteLine("Has introducido texto idiota, ingresa un numero. Intenta de nuevo:");
+                    Console.WriteLine("Has introducido texto, ingresa un numero. Intenta de nuevo:");
                     miNumero = 101;
                     intentos--;
                 }
