@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Specialized;
 
 public class MultimediaFile
 {
@@ -16,7 +15,7 @@ public class MultimediaFile
 	//	this.tipoElemento = tipoElemento;
 	//}
 
-	public void DesplegarInfo()
+	public virtual void DesplegarInfo()
 	{
 		string informacion = $"{fechaCreacion} {fechaModificacion} {nombre} {tipoElemento}";
 

@@ -4,26 +4,31 @@ public class DinamicFile : MultimediaFile
 {
 	string duracion;
     public DinamicFile(string fechaCreacion, string fechaModificacion, string nombre, string tipoElemento)
-    //: base(fechaCreacion, fechaModificacion, nombre, tipoElemento) Llamar constructor de la clase padre
+    ////: base(fechaCreacion, fechaModificacion, nombre, tipoElemento) Llamar constructor de la clase padre
     {
         this.fechaCreacion = fechaCreacion;
         this.fechaModificacion = fechaModificacion;
         this.nombre = nombre;
         this.tipoElemento = tipoElemento;
     }
-    public void Reproducir()
+    public virtual void Reproducir()
 	{
         Console.WriteLine("Reproduciendo");
     }
 
-    public void Pausar()
+    public virtual void Pausar()
     {
         Console.WriteLine("Pausado");
     }
 
-    public void Detener()
+    public virtual void Detener()
     {
         Console.WriteLine("Detenido");
+    }
+
+    public override void DesplegarInfo()
+    {
+        Console.WriteLine( "DinamicFile detalles");
     }
 
 }
